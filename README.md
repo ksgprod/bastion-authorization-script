@@ -40,4 +40,4 @@ Acesso liberado para:
 Um estudo de caso para utilização deste script você encontra em:
 
 * [Segurança no acesso à recursos AWS, utilizando Bastion Host.](https://klebernox.medium.com/seguran%C3%A7a-no-acesso-%C3%A0-recursos-aws-utilizando-bastion-host-f82854d5a71)
-* [Economizando recurso AWS, automatizando execução via funções Lambda.](...)
+* [Economizando recurso AWS, automatizando execução via funções Lambda.](https://klebernox.medium.com/economizando-recurso-aws-automatizando-execu%C3%A7%C3%A3o-via-fun%C3%A7%C3%B5es-lambda-e197472239f9)
